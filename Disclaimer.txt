@@ -1,0 +1,4 @@
+Note:
+Some (in not all) scripts shown here may be from projects where permision was given to display what I developed
+openly. Changes may have been applied to these scripts to be in line with the wishes or restrictions prefered by
+those that the scripts were developed for.
